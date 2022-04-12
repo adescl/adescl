@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adescl
 - 👀 I’m interested in full stack developing
 - 🌱 I’m currently learning HTML5, CSS3, and JavaScript
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on some cool projects
 - 📫 How to reach me: email liuadelyne@gmail.com
 
 <!---
